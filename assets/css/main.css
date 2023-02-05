@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #25497c;
+		background: #2d5997;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -2356,7 +2356,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #25497c;
+			background: #2d5997;
 		}
 
 		select:focus::-ms-value {
@@ -3244,39 +3244,39 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #183053;
+			background-color: #25497c;
 		}
 
 		.wrapper.style1 {
-			background-color: #2d5997;
+			background-color: #3569b1;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #25497c; 
+			background-color: #2d5997; 
 		}
 
 		.wrapper.style2 {
-			background-color: #d9aa40;
+			background-color: #ffc84b;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #b28c34;
+			background-color: #d9aa40;
 		}
 
 		.wrapper.style3 {
-			background-color: #c53d7d;
+			background-color: #e74893;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #a13267;
+			background-color: #c53d7d;
 		}
 
 		.wrapper.style4 {
-			background-color: #42a99d;
+			background-color: #4dc7b9;
 		}
 
 		.wrapper.style4-alt {
-			background-color: #368b81;
+			background-color: #42a99d;
 		}
 
 		.wrapper.fullscreen {
