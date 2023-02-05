@@ -2536,27 +2536,35 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #3966B4;
+					color: #2d5997;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #3966B4;
+					color: #25497c;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #d9aa40;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #b28c34;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #c53d7d;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #a13267;
+				}
+
+				.wrapper.style4 .icon.major:before {
+					color: #42a99d;
+				}
+
+				.wrapper.style4-alt .icon.major:before {
+					color: #368b81;
 				}
 
 /* Image */
@@ -3240,35 +3248,35 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #4DC7B9;
+			background-color: #2d5997;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #43a5a8;
+			background-color: #25497c; 
 		}
 
 		.wrapper.style2 {
-			background-color: #3569B1;
+			background-color: #d9aa40;
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #b28c34;
 		}
 
 		.wrapper.style3 {
-			background-color: #E74893;
+			background-color: #c53d7d;
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #a13267;
 		}
 
 		.wrapper.style4 {
-			background-color: #FFC84B;
+			background-color: #42a99d;
 		}
 
 		.wrapper.style4-alt {
-			background-color: #d1a132;
+			background-color: #368b81;
 		}
 
 		.wrapper.fullscreen {
